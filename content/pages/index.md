@@ -3,7 +3,7 @@ title: Portfolio
 sections:
   - type: hero_section
     title: 'Hi, I’m Patrick. I help my clients succeed online.'
-    subtitle: 'I will handle your , at an affordable price.'
+    subtitle: 'I will handle your emails and content, at an affordable price.'
     actions:
       - label: Contact Me
         url: /contact
